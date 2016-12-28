@@ -1,0 +1,14 @@
+{
+  "resource_id":362,
+  "resource_category":"themesuite",
+  "resource_contents":[{"category":"launcher","resource_templateversion":1},
+  {"category":"lockscreen","resource_templateversion":1}],
+  "resource_name":"Mirage",
+  "resource_version":"8",
+  "resource_versionname":"v1.0",
+  "resource_description":"lenovo",
+  "resource_originate":"lenovo",
+  "resource_developer":"lenovo",
+  "resource_designer":"lenovo",
+  "resource_platform":"phone"
+}

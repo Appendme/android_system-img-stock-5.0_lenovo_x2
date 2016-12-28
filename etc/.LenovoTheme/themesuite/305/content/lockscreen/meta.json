@@ -1,0 +1,14 @@
+﻿{
+    "resource_id":305, 
+    "resource_category": "lockscreen", 
+    "resource_name": "Less is more", 
+    "resource_version": 1,    
+    "resource_versionname": "1.0",  
+    "resource_description": "LenovoTheme",
+    "resource_originate": "Lenovo",
+    "resource_platform" : "phone",
+    "resource_developer": "Lenovo",
+    "resource_designer":"keygurard team",
+    "resource_templateversion": 1,
+    "resource_subtype" : "script_1"
+}

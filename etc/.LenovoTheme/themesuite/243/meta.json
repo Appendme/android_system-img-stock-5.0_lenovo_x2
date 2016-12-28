@@ -1,0 +1,16 @@
+{
+"resource_id":243,
+"resource_category":"themesuite",
+"resource_contents":[
+{"category":"launcher","resource_templateversion":1},
+{"category":"lockscreen","resource_templateversion":1}
+],
+"resource_name":"Pulse",
+"resource_version":1,
+"resource_versionname":"v1.0",
+"resource_description":"联想主题",
+"resource_originate":"联想",
+"resource_developer":"联想",
+"resource_designer":"设计者",
+"resource_platform":"phone"
+}

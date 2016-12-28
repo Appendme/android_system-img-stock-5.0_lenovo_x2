@@ -1,0 +1,14 @@
+﻿{
+    "resource_id": 243, 
+    "resource_category": "lockscreen", 
+    "resource_name": "Pulse", 
+    "resource_version": 1,    
+    "resource_versionname": "1.0",  
+    "resource_description": "联想主题",
+    "resource_originate": "联想",
+    "resource_platform" : "phone",
+    "resource_developer": "联想",
+    "resource_designer":"keygurard team",
+    "resource_templateversion": 1,
+    "resource_subtype" : "Time"
+}
